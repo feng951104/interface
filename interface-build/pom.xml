@@ -40,6 +40,7 @@
 		<module>../interface-user</module>
 		<module>../interface-order</module>
 		<module>../interface-commodity</module>
+		<module>../interface-task</module>
 	</modules>
 
 </project>
