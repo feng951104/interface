@@ -50,7 +50,7 @@
         <interface.version>1.0-SNAPSHOT</interface.version>
         <java.version>1.8</java.version>
         <lombok.version>1.18.2</lombok.version>
-        <swagger.version>2.6.1</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <maven.test.skip>true</maven.test.skip>
     </properties>
 
